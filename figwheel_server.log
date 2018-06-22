@@ -1,0 +1,660 @@
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.606 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.579 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.589 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.518 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.769 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.512 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.559 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.625 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 2.616 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.337 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/core.cljs   line:5 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 5, col 19] Invalid keyword: :.[0m
+
+  [36m4[0m  [36m(def app-state (reagent/atom [0m
+  [33m5[0m  [1m                {:}))[0m
+  [0m [0m  [33m                /home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 5, col 19] Invalid keyword: :.[0m
+  [36m6[0m  [36m[0m
+  [36m7[0m  [36m(.log js/console "welcome to Heidelberg!")[0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.534 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.617 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.594 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.306 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/core.cljs   line:14 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 14, col 60] Unmatched delimiter ).[0m
+
+  [36m12[0m  [36m    [:h1 (-> @app-state :desc)]))[0m
+  [36m13[0m  [36m[0m
+  [33m14[0m  [1m(reagent/render [app] (js/document.getElementById "root"))))[0m
+  [0m  [0m  [33m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 14, col 60] Unmatched delimiter ).[0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.53 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.552 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.497 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.5 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.497 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.805 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.584 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.564 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.529 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.671 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.619 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.616 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.57 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.566 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.516 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.525 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.506 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.522 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[36m----  Compiler Warning on   src/cljs/heidelberg/core.cljs   line:11  column:33  ----[0m
+
+  [1mUse of undeclared Var heidelberg.core/value[0m
+
+  [36m 8[0m  [36m(.log js/console "welcome to Heidelberg!")[0m
+  [36m 9[0m  [36m[0m
+  [36m10[0m  [36m(defn control [][0m
+  [33m11[0m  [1m  [:input {:type "range" :value value :min min :max max[0m
+  [0m  [0m  [33m                                ^--- Use of undeclared Var heidelberg.core/value[0m
+  [36m12[0m  [36m           :style {:width "100%"}}])[0m
+  [36m13[0m  [36m[0m
+  [36m14[0m  [36m(defn app [][0m
+  [36m15[0m  [36m  (fn [][0m
+  [36m16[0m  [36m    [:div {:class "center"}[0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.528 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.547 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.504 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.343 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/core.cljs   line:13 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 13, col 37] Unmatched delimiter ).[0m
+
+  [36m11[0m  [36m  [:div {:class "center"}[0m
+  [36m12[0m  [36m  [:input {:type "range" :value 45 :min 0 :max 55[0m
+  [33m13[0m  [1m           :style {:width "100%"}}])[0m
+  [0m  [0m  [33m           /home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 13, col 37] Unmatched delimiter ).[0m
+  [36m14[0m  [36m[0m
+  [36m15[0m  [36m(defn app [][0m
+  [36m16[0m  [36m  (fn [][0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.297 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/core.cljs   line:14 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 14, col 37] Unmatched delimiter ).[0m
+
+  [36m12[0m  [36m   [:span "Temperature: "][0m
+  [36m13[0m  [36m  [:input {:type "range" :value 45 :min 0 :max 55[0m
+  [33m14[0m  [1m           :style {:width "100%"}}])[0m
+  [0m  [0m  [33m           /home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 14, col 37] Unmatched delimiter ).[0m
+  [36m15[0m  [36m[0m
+  [36m16[0m  [36m(defn app [][0m
+  [36m17[0m  [36m  (fn [][0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.287 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/core.cljs   line:14 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 14, col 38] Unmatched delimiter ).[0m
+
+  [36m12[0m  [36m   [:span "Temperature: "][0m
+  [36m13[0m  [36m   [:input {:type "range" :value 45 :min 0 :max 55[0m
+  [33m14[0m  [1m            :style {:width "100%"}}])[0m
+  [0m  [0m  [33m            /home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 14, col 38] Unmatched delimiter ).[0m
+  [36m15[0m  [36m[0m
+  [36m16[0m  [36m(defn app [][0m
+  [36m17[0m  [36m  (fn [][0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.504 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.541 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.549 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.502 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.511 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.577 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.499 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.497 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.557 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[36m----  Compiler Warning on   src/cljs/heidelberg/core.cljs   line:16  column:33  ----[0m
+
+  [1mUse of undeclared Var heidelberg.core/bmi-data[0m
+
+  [36m12[0m  [36m   [:h3 "Temperature"][0m
+  [36m13[0m  [36m   [:input {:type "range" :value (:temp @app-state) :min 0 :max 55[0m
+  [36m14[0m  [36m            :style {:width "100%"}[0m
+  [36m15[0m  [36m            :on-change (fn [e][0m
+  [33m16[0m  [1m                         (swap! bmi-data assoc param (.. e -target -value)))}]])[0m
+  [0m  [0m  [33m                                ^--- Use of undeclared Var heidelberg.core/bmi-data[0m
+  [36m17[0m  [36m[0m
+  [36m18[0m  [36m(defn app [][0m
+  [36m19[0m  [36m  (fn [][0m
+  [36m20[0m  [36m    [:div {:class "center"}[0m
+  [36m21[0m  [36m     [:div {:class "circle" [0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/core.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/heidelberg/core.cljs   line:16  column:48  ----[0m
+
+  [1mUse of undeclared Var heidelberg.core/param[0m
+
+  [36m12[0m  [36m   [:h3 "Temperature"][0m
+  [36m13[0m  [36m   [:input {:type "range" :value (:temp @app-state) :min 0 :max 55[0m
+  [36m14[0m  [36m            :style {:width "100%"}[0m
+  [36m15[0m  [36m            :on-change (fn [e][0m
+  [33m16[0m  [1m                         (swap! bmi-data assoc param (.. e -target -value)))}]])[0m
+  [0m  [0m  [33m                                               ^--- Use of undeclared Var heidelberg.core/param[0m
+  [36m17[0m  [36m[0m
+  [36m18[0m  [36m(defn app [][0m
+  [36m19[0m  [36m  (fn [][0m
+  [36m20[0m  [36m    [:div {:class "center"}[0m
+  [36m21[0m  [36m     [:div {:class "circle" [0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.504 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.516 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.504 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.289 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/core.cljs   line:7 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 7, col 28] The map literal starting with :temp on line 5 column 17 contains 5 form(s). Map literals must contain an even number of forms.[0m
+
+  [36m5[0m  [36m                {:temp 45[0m
+  [36m6[0m  [36m                 :temp-color "red"[0m
+  [33m7[0m  [1m                 :very-hot}))[0m
+  [0m [0m  [33m                 /home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 7, col 28] The map literal starting with :temp on line 5 column 17 contains 5 form(s). Map literals must contain an even number of forms.[0m
+  [36m8[0m  [36m[0m
+  [36m9[0m  [36m(.log js/console "welcome to Heidelberg!")[0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.517 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.503 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.506 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.494 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.512 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.516 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.598 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.576 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.492 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.517 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.572 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.573 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.595 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.5 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.505 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.552 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.499 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.489 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.521 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[36m----  Compiler Warning on   src/cljs/heidelberg/fuzzy.cljs   line:9  column:15  ----[0m
+
+  [1mUse of undeclared Var heidelberg.fuzzy/T1[0m
+
+  [36m5[0m  [36m(def cold [:cold 6 11 16 21])[0m
+  [36m6[0m  [36m(def optimal [:optimal 16 21 21 26])[0m
+  [36m7[0m  [36m(def hot [:hot 21 26 31 36])[0m
+  [36m8[0m  [36m(def very-hot [:very-hot 31 36 50 50])[0m
+  [33m9[0m  [1m(def lv-temp [T1 T2 T3 T4 T5])[0m
+  [0m [0m  [33m              ^--- Use of undeclared Var heidelberg.fuzzy/T1[0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/fuzzy.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/heidelberg/fuzzy.cljs   line:9  column:18  ----[0m
+
+  [1mUse of undeclared Var heidelberg.fuzzy/T2[0m
+
+  [36m5[0m  [36m(def cold [:cold 6 11 16 21])[0m
+  [36m6[0m  [36m(def optimal [:optimal 16 21 21 26])[0m
+  [36m7[0m  [36m(def hot [:hot 21 26 31 36])[0m
+  [36m8[0m  [36m(def very-hot [:very-hot 31 36 50 50])[0m
+  [33m9[0m  [1m(def lv-temp [T1 T2 T3 T4 T5])[0m
+  [0m [0m  [33m                 ^--- Use of undeclared Var heidelberg.fuzzy/T2[0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/fuzzy.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/heidelberg/fuzzy.cljs   line:9  column:21  ----[0m
+
+  [1mUse of undeclared Var heidelberg.fuzzy/T3[0m
+
+  [36m5[0m  [36m(def cold [:cold 6 11 16 21])[0m
+  [36m6[0m  [36m(def optimal [:optimal 16 21 21 26])[0m
+  [36m7[0m  [36m(def hot [:hot 21 26 31 36])[0m
+  [36m8[0m  [36m(def very-hot [:very-hot 31 36 50 50])[0m
+  [33m9[0m  [1m(def lv-temp [T1 T2 T3 T4 T5])[0m
+  [0m [0m  [33m                    ^--- Use of undeclared Var heidelberg.fuzzy/T3[0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/fuzzy.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/heidelberg/fuzzy.cljs   line:9  column:24  ----[0m
+
+  [1mUse of undeclared Var heidelberg.fuzzy/T4[0m
+
+  [36m5[0m  [36m(def cold [:cold 6 11 16 21])[0m
+  [36m6[0m  [36m(def optimal [:optimal 16 21 21 26])[0m
+  [36m7[0m  [36m(def hot [:hot 21 26 31 36])[0m
+  [36m8[0m  [36m(def very-hot [:very-hot 31 36 50 50])[0m
+  [33m9[0m  [1m(def lv-temp [T1 T2 T3 T4 T5])[0m
+  [0m [0m  [33m                       ^--- Use of undeclared Var heidelberg.fuzzy/T4[0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/fuzzy.cljs  ----[0m
+[36m----  Compiler Warning on   src/cljs/heidelberg/fuzzy.cljs   line:9  column:27  ----[0m
+
+  [1mUse of undeclared Var heidelberg.fuzzy/T5[0m
+
+  [36m5[0m  [36m(def cold [:cold 6 11 16 21])[0m
+  [36m6[0m  [36m(def optimal [:optimal 16 21 21 26])[0m
+  [36m7[0m  [36m(def hot [:hot 21 26 31 36])[0m
+  [36m8[0m  [36m(def very-hot [:very-hot 31 36 50 50])[0m
+  [33m9[0m  [1m(def lv-temp [T1 T2 T3 T4 T5])[0m
+  [0m [0m  [33m                          ^--- Use of undeclared Var heidelberg.fuzzy/T5[0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/fuzzy.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.51 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.531 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.524 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.483 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.487 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.572 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[36m----  Compiler Warning on   src/cljs/heidelberg/fuzzy.cljs   line:6  column:28  ----[0m
+
+  [1mUse of undeclared Var heidelberg.fuzzy/A[0m
+
+  [36m 3[0m  [36m(defn membership[0m
+  [36m 4[0m  [36m  "get membership degree of x in fuzzy set A."[0m
+  [36m 5[0m  [36m  [a x][0m
+  [33m 6[0m  [1m  (let [[desc x1 x2 x3 x4] A[0m
+  [0m  [0m  [33m                           ^--- Use of undeclared Var heidelberg.fuzzy/A[0m
+  [36m 7[0m  [36m        res (cond[0m
+  [36m 8[0m  [36m              (and (> x x1) (< x x2)) (float (/ (- x x1) (- x2 x1)))[0m
+  [36m 9[0m  [36m              (and (>= x x2) (<= x x3)) 1.0[0m
+  [36m10[0m  [36m              (and (> x x3) (< x x4))  (float (/ (- x4 x) (- x4 x3)))[0m
+  [36m11[0m  [36m              (or (<= x x1) (>= x x4)) 0.0)][0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/fuzzy.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.547 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.557 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.53 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.496 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.683 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.55 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.499 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.547 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.495 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.511 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.51 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.296 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/fuzzy.cljs   line:33 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/fuzzy.cljs [line 33, col 1] Unexpected EOF while reading item 11 of list, starting at line 14 and column 1.[0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/fuzzy.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.509 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.589 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.56 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.562 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.534 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.517 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.562 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.349 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/core.cljs   line:27 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 27, col 61] Unmatched delimiter }.[0m
+
+  [36m25[0m  [36m                         (let [t (.. e -target -value)][0m
+  [36m26[0m  [36m                          (swap! app-state assoc :temp (.. % -target -value))[0m
+  [33m27[0m  [1m                          (swap! app-state assoc :desc ()))}]])[0m
+  [0m  [0m  [33m                          /home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 27, col 61] Unmatched delimiter }.[0m
+  [36m28[0m  [36m[0m
+  [36m29[0m  [36m(defn app [][0m
+  [36m30[0m  [36m  (fn [][0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.335 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/core.cljs   line:27 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 27, col 62] Unmatched delimiter }.[0m
+
+  [36m25[0m  [36m                         (let [t (.. e -target -value)][0m
+  [36m26[0m  [36m                           (swap! app-state assoc :temp t)[0m
+  [33m27[0m  [1m                           (swap! app-state assoc :desc ()))}]])[0m
+  [0m  [0m  [33m                           /home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 27, col 62] Unmatched delimiter }.[0m
+  [36m28[0m  [36m[0m
+  [36m29[0m  [36m(defn app [][0m
+  [36m30[0m  [36m  (fn [][0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[31mFailed to compile build :dev from ["src/cljs"] in 0.292 seconds.[0m
+[36m----  Could not Read  src/cljs/heidelberg/core.cljs   line:27 ----[0m
+
+  [1m/home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 27, col 71] Unmatched delimiter }.[0m
+
+  [36m25[0m  [36m                         (let [t (.. e -target -value)][0m
+  [36m26[0m  [36m                           (swap! app-state assoc :temp t)[0m
+  [33m27[0m  [1m                           (swap! app-state assoc :desc (temp-desc)))}]])[0m
+  [0m  [0m  [33m                           /home/visof/code/clojure/heidelberg/src/cljs/heidelberg/core.cljs [line 27, col 71] Unmatched delimiter }.[0m
+  [36m28[0m  [36m[0m
+  [36m29[0m  [36m(defn app [][0m
+  [36m30[0m  [36m  (fn [][0m
+
+[36m----  Reader Error : Please see src/cljs/heidelberg/core.cljs  ----[0m
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[36m----  Compiler Warning on   src/cljs/heidelberg/core.cljs   line:27  column:58  ----[0m
+
+  [1mUse of undeclared Var heidelberg.core/temp-desc[0m
+
+  [36m23[0m  [36m            :style {:width "100%"}[0m
+  [36m24[0m  [36m            :on-change (fn [e] [0m
+  [36m25[0m  [36m                         (let [t (.. e -target -value)][0m
+  [36m26[0m  [36m                           (swap! app-state assoc :temp t)[0m
+  [33m27[0m  [1m                           (swap! app-state assoc :desc (temp-desc))))}]])[0m
+  [0m  [0m  [33m                                                         ^--- Use of undeclared Var heidelberg.core/temp-desc[0m
+  [36m28[0m  [36m[0m
+  [36m29[0m  [36m(defn app [][0m
+  [36m30[0m  [36m  (fn [][0m
+  [36m31[0m  [36m    [:div[0m
+  [36m32[0m  [36m     [:h1 {:style {:text-align "center"}} "Welcome to Heidelberg"][0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.501 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[36m----  Compiler Warning on   src/cljs/heidelberg/core.cljs   line:27  column:58  ----[0m
+
+  [1mUse of undeclared Var heidelberg.core/temp-desc[0m
+
+  [36m23[0m  [36m            :style {:width "100%"}[0m
+  [36m24[0m  [36m            :on-change (fn [e] [0m
+  [36m25[0m  [36m                         (let [t (.. e -target -value)][0m
+  [36m26[0m  [36m                           (swap! app-state assoc :temp t)[0m
+  [33m27[0m  [1m                           (swap! app-state assoc :desc (temp-desc t))))}]])[0m
+  [0m  [0m  [33m                                                         ^--- Use of undeclared Var heidelberg.core/temp-desc[0m
+  [36m28[0m  [36m[0m
+  [36m29[0m  [36m(defn app [][0m
+  [36m30[0m  [36m  (fn [][0m
+  [36m31[0m  [36m    [:div[0m
+  [36m32[0m  [36m     [:h1 {:style {:text-align "center"}} "Welcome to Heidelberg"][0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.513 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.781 seconds.[0m
+notifying browser that file changed:  resources/public/js/app.js
+notifying browser that file changed:  resources/public/js/out/goog/deps.js
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.587 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.566 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.588 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.607 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.598 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.62 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.529 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.563 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.661 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.554 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.566 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.624 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.586 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.669 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/fuzzy.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.608 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.669 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.596 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.624 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[36m----  Compiler Warning on   src/cljs/heidelberg/core.cljs   line:31  column:29  ----[0m
+
+  [1mUse of undeclared Var heidelberg.core/change-state![0m
+
+  [36m27[0m  [36m            :max max-temp[0m
+  [36m28[0m  [36m            :style {:width "100%"}[0m
+  [36m29[0m  [36m            :on-change (fn [e] [0m
+  [36m30[0m  [36m                         (let [t (.. e -target -value)][0m
+  [33m31[0m  [1m                           (change-state! t)))}]])[0m
+  [0m  [0m  [33m                            ^--- Use of undeclared Var heidelberg.core/change-state![0m
+  [36m32[0m  [36m[0m
+  [36m33[0m  [36m(defn app [][0m
+  [36m34[0m  [36m  (fn [][0m
+  [36m35[0m  [36m    [:div[0m
+  [36m36[0m  [36m     [:h1 {:style {:text-align "center"}} "Welcome to Heidelberg"][0m
+
+[36m----  Compiler Warning : Please see src/cljs/heidelberg/core.cljs  ----[0m
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.587 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.621 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
+Compiling build :dev to "resources/public/js/app.js" from ["src/cljs"]...
+[32mSuccessfully compiled build :dev to "resources/public/js/app.js" in 0.589 seconds.[0m
+notifying browser that file changed:  resources/public/js/out/heidelberg/core.js
