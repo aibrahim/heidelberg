@@ -16,9 +16,7 @@
   [lv x]
   (->> lv
        (mapv #(membership % x))
-       (apply max-key last)
-       first
-       name))
+       (apply max-key last)))
 
 ;define temperature ranges
 (def very-cold [:very-cold 0 0 6 11])
@@ -29,11 +27,19 @@
 (def lv-temp [very-cold cold optimal hot very-hot])
 
 (defn temp-desc [x]
-  (get-lv lv-temp x))
+  (->> x
+       (get-lv lv-temp)
+       first
+       name))
 
 ;temperature colors map
-(defonce ^:dynamic temp-colors {"very-hot"  "red"
-                                "hot"       "orange"
-                                "optimal"   "green"
-                                "cold"      "DeepSkyBlue"
-                                "very-cold" "RoyalBlue"})
+(defonce ^:dynamic temp-colors {:very-hot  {:red 255 :green 0 :blue 0}
+                                :hot       {:red 255 :green 255 :blue 0}
+                                :optimal   {:red 0 :green 255 :blue 0}
+                                :cold      {:red 0 :green 255 :blue 255}
+                                :very-cold {:red 0 :green 0 :blue 255}})
+
+(defn gen-color [[desc x]]
+  (let [{:keys [red green blue]} (get temp-colors desc)]
+    (str "rgb(" (* red x) "," (* green x) "," (* blue x))))
+

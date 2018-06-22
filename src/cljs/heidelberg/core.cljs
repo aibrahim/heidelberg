@@ -5,8 +5,8 @@
 (.log js/console "welcome to Heidelberg!")
 
 (def app-state (reagent/atom 
-                {:temp 45
-                 :temp-color "red"
+                {:temp 55
+                 :temp-color "rgb(255,0,0)"
                  :desc "very-hot"}))
 
 (defonce ^:dynamic min-temp 0)
@@ -16,7 +16,9 @@
   (do 
     (swap! app-state assoc :temp t)
     (swap! app-state assoc :desc (fuzzy/temp-desc t))
-    (swap! app-state assoc :temp-color (get fuzzy/temp-colors (:desc @app-state)))))
+    (swap! app-state assoc :temp-color (->> (:temp @app-state)
+                                            (fuzzy/get-lv fuzzy/lv-temp)
+                                            fuzzy/gen-color))))
 
 (defn control []
   [:div
