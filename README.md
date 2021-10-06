@@ -1,6 +1,6 @@
 # heidelberg
 
-it's really simple visualization of temperature via colors and fuzzy description
+It's really simple visualization of temperature via colors and fuzzy description
 
 ## Installation
 
