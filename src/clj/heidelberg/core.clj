@@ -1,7 +1,10 @@
 (ns heidelberg.core
-  (:gen-class))
+  (:require [clojure.string :as str]))
 
-(defn -main
-  "I don't do a whole lot ... yet."
-  [& args]
-  (println "Hello, World!"))
+(str/lower-case "hello")
+
+(* 2 3 4)
+
+
+(:astonished:
+ 3 4 5)
